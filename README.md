@@ -28,6 +28,8 @@ All requests will be reviewed by our institutional review board and data governa
 
 **This codebase is protected by copyright registration from the National Copyright Administration of China which has been officially granted.** Due to intellectual property restrictions, the code cannot be freely distributed at this time. We appreciate your understanding.
 
+**We warmly welcome fellow researchers to discuss and exchange ideas about our codebase, and to jointly participate in continuous optimization and improvement.** If you are interested in collaboration, please feel free to contact the corresponding authors of our research article.
+
 ## 🤝 Collaboration and Feedback
 
 We warmly welcome collaboration, feedback, and contributions from the research community! Whether you are a:
