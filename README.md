@@ -1,5 +1,9 @@
 # Multimodal-CAG-Stent-Prediction-System
 
+[![License](https://img.shields.io/badge/license-proprietary-red.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)]()
+[![Copyright](https://img.shields.io/badge/copyright-protected-blue.svg)]()
+
 ## 📋 Overview
 
 This repository accompanies a research article currently under review.
