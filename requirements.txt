@@ -1,0 +1,36 @@
+# Core Deep Learning Frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+tensorflow>=2.12.0
+
+# Medical Imaging Libraries
+pydicom>=2.3.0
+SimpleITK>=2.2.0
+nibabel>=5.0.0
+
+# Computer Vision and Image Processing
+opencv-python>=4.7.0
+Pillow>=9.5.0
+scikit-image>=0.20.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Model Explainability
+grad-cam>=1.4.0
+pytorch-grad-cam>=1.4.0
+
+# Metrics and Evaluation
+scikit-learn>=1.2.0
+statsmodels>=0.14.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
+h5py>=3.8.0
